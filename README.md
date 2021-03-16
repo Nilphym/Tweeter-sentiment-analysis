@@ -28,6 +28,11 @@ User have to provide their own api keys for Twitter api for the application to w
 * Textblob
 * nltk
 
+## Setup
+* Download repository.
+* Make sure you have textblob, nltk, sklearn, os, tweepy, sqlite3 and tkinter packages, otherwise download missing ones.
+* Run main.py file and follow GUI.
+
 ## Architecture
 Starting point of app is in main.py file, where objects for GUI and logic are created.  
 GUI and logic are separated from each other. In the utils folder you can find separated functions of the program, i.e. database service, sentiment analysis service, Twitter API service and file for constant values.  
