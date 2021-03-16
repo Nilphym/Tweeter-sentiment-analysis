@@ -1,5 +1,5 @@
 # Tweeter-sentiment-analysis
-A GUI Application with the feature of executing sentiment analysis of chosen user's Tweets from Twitter platform.
+A GUI application which lets you analyse Tweets of chosen user. Working with Twitter API.
 Program has been written in Python 3, using Tkinter, Tweepy, Sklearn, Textblob and nltk libraries.
 
 ## Table of content
