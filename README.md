@@ -37,6 +37,3 @@ User have to provide their own api keys for Twitter api for the application to w
 Starting point of app is in main.py file, where objects for GUI and logic are created.  
 GUI and logic are separated from each other. In the utils folder you can find separated functions of the program, i.e. database service, sentiment analysis service, Twitter API service and file for constant values.  
 For sentiment analysis I've used the strategy design pattern which allows user to choose between multiple ways of analysing sentiment (as shown in screenshots section).
-
-## Contact
-Created by **Jędrzej Ratajczak** ([@nilphym](https://github.com/nilphym)) - feel free to contact me!
